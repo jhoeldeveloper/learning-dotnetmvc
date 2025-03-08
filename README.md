@@ -1,4 +1,4 @@
-# Learning dotnet ASP.NET Core MVC - .NET 9.0 with the official documentation
+# Learning ASP.NET Core MVC - .NET 9.0 with the official documentation
 
 source: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-9.0&tabs=visual-studio
 
